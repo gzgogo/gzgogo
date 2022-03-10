@@ -8,3 +8,5 @@
 ### 📫 How to reach me
 mail: gongzhen1027@hotmail.com    
 wechat: 459135899
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=gzgogo)]()
