@@ -6,5 +6,5 @@
 - 🌱 I’m currently working with javascript
 
 ### 📫 How to reach me
-mail: gongzhen1027@hotmal.com    
+mail: gongzhen1027@hotmail.com    
 wechat: 459135899
